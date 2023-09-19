@@ -1,0 +1,33 @@
+@media only screen and (max-width: 600px) {
+   .hero-section h1{
+    font-size: 35px;
+   }
+   .footer{
+    background-position: 40% 55%;;
+   }
+   .search-box{
+    margin-bottom: 1em;
+   }
+   .up-arrow{
+    margin-bottom: 0vh !important;
+   }
+   .form-col{
+      background-color: rgba(255, 255, 255, 0.5);
+      padding: 30px;
+     border-radius: 30px;
+     margin-bottom: 10vh;
+   }
+   .loc-col{
+      position: relative;
+      padding: 30px;
+     border-radius: 30px;
+   
+   }
+   .icon-contact{
+      position: absolute;
+      top: -5vh;
+      right: -2vw;
+      width: 90px;
+   }
+  
+  }
